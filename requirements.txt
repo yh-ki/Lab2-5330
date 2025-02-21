@@ -1,6 +1,0 @@
-opencv-python
-gradio
-numpy
-scikit-image
-scikit-learn
-scipy
